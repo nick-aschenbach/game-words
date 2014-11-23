@@ -8,7 +8,11 @@ Gem::Specification.new do |spec|
   spec.version       = GameWords::VERSION
   spec.authors       = ['Nick Aschenbach']
   spec.email         = ['nick.aschenbach@gmail.com']
-  spec.summary       = %q{Find words for pictionary, catchphrase, charades and holidays}
+  spec.summary       = %q{Find game words for pictionary, catchphrase, charades and holidays}
+  spec.description   = %q{Find words, phrases, songs, movies, characters, actions and sayings for
+Pictionary, Catchphrase, Charades or the holidays. Each game has several
+categories including difficulty levels. This library returns a list for
+some or all categories.}
   spec.homepage      = 'https://github.com/nick-aschenbach/game-words'
   spec.license       = 'MIT'
 
