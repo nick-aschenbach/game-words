@@ -11,8 +11,10 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Find game words for pictionary, catchphrase, charades and holidays}
   spec.description   = %q{Find words, phrases, songs, movies, characters, actions and sayings for
 Pictionary, Catchphrase, Charades or the holidays. Each game has several
-categories including difficulty levels. This library returns a list for
-some or all categories.}
+categories and difficulty levels. This library returns a word list for
+some or all categories (nearly 5,000 in all).
+
+A command line interface is provided in addition to the Ruby library}
   spec.homepage      = 'https://github.com/nick-aschenbach/game-words'
   spec.license       = 'MIT'
 
