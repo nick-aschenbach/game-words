@@ -1,0 +1,65 @@
+#!/usr/bin/env ruby
+
+require 'game_words'
+require 'optparse'
+
+ARGV << '-h' if ARGV.empty?
+
+options = {}
+optparse = OptionParser.new do|opts|
+  opts.banner = 'Usage: gamewords [options] game [category]'
+
+  options[:list_games] = false
+  opts.on( '-l', '--list', 'List games' ) do
+    options[:list_games] = true
+  end
+
+  options[:game_category] = nil
+  opts.on( '-c', '--categories GAME', 'List categories for a GAME' ) do |game|
+    options[:game_category] = game
+  end
+
+  options[:random] = false
+  opts.on('-r', '--random', 'Show one random word or phrase for a GAME [CATEGORY]') do
+    options[:random] = true
+  end
+
+  opts.on('-v', '--version', 'Show the version') do
+    puts "v#{GameWords::VERSION}"
+    exit
+  end
+
+  opts.on_tail('-h', '--help', 'Display help screen') do
+    puts opts
+    exit
+  end
+end
+
+begin
+  optparse.parse!
+rescue OptionParser::ParseError
+  puts 'Error parsing arguments. Please run with the -h option'
+end
+
+generator = GameWords::Generator.new
+
+if options[:list_games]
+  puts generator.games
+  exit
+end
+
+if options[:game_category]
+  puts generator.game_categories(options[:game_category])
+  exit
+end
+
+game = ARGV[0]
+categories = ARGV[1]
+words = generator.words(game, categories)
+
+if options[:random]
+  puts words.sample
+  exit
+end
+
+puts words

@@ -1,9 +1,11 @@
-# Gamewords
+# Game Words
 
 Find words, phrases, songs, movies, characters, actions and sayings for
 Pictionary, Catchphrase, Charades or the holidays. Each game has several
-categories including difficulty levels. This library returns a list for
-some or all categories.
+categories and difficulty levels. This library returns a word list for
+some or all categories (nearly 5,000 in all).
+
+A command line interface is provided in addition to the Ruby library
 
 ## Installation
 
@@ -15,39 +17,75 @@ gem 'game_words'
 
 And then execute:
 
-> bundle
+```bash
+$ bundle
+```
 
 Or install it yourself as:
 
-> gem install game_words
-
-## Usage
-
-Find a list of games:
-
-```ruby
-GameWords::Generator.new.games
+```bash
+$ gem install game_words
 ```
 
-Find the categories for a game:
+## Command Line Usage
+
+Show all words for a game:
+
+```bash
+$ gamewords charades
+```
+
+Show all words for a specific game category:
+
+```bash
+$ gamewords catchphrase people
+```
+
+Show a list of games:
+
+```bash
+$ gamewords -l
+```
+
+Show a list of categories for a game:
+
+```bash
+$ gamewords -c pictionary
+```
+
+Show a single random word or phrase:
+
+```bash
+$ gamewords -r holidays newyears
+```
+
+## Library Usage
+
+Show all words for a game:
+
 ```ruby
 gen = GameWords::Generator.new
-gen.game_categories 'pictionary'
-```
-
-Get all words for all categories for a game:
-
-```ruby
 gen.words 'catchphrase'
 ```
 
-Get the words for a game and category:
+Show the words for a specific game category:
 
 ```ruby
 gen.words 'charades', 'hard'
 ```
 
-Easily generate a random word:
+Show a list of games:
+
+```ruby
+gen.games
+```
+
+Show the categories for a game:
+```ruby
+gen.game_categories 'pictionary'
+```
+
+Easily show a random word:
 
 ```ruby
 gen.words('pictionary', 'easy').sample
