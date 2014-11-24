@@ -1,244 +1,5 @@
 ---
 catchphrase:
-  animals:
-  - cat
-  - mole
-  - komodo dragon
-  - ewe
-  - snapping turtle
-  - catfish
-  - polar bear
-  - wildebeest
-  - stallion
-  - Canadian goose
-  - crane
-  - partridge
-  - toucan
-  - worm
-  - whale
-  - trout
-  - baboon
-  - stork
-  - hyena
-  - panda
-  - canary
-  - ape
-  - skunk
-  - bear
-  - dolphin
-  - dragon
-  - pony
-  - kitten
-  - clam
-  - rabbit
-  - bass
-  - tiger
-  - ox
-  - elephant
-  - sheep
-  - humpback whale
-  - dragonfly
-  - flock
-  - butterfly
-  - dodo bird
-  - blowfish
-  - turkey
-  - ladybug
-  - gila monster
-  - salamander
-  - lemur
-  - grizzly
-  - lark
-  - eagle
-  - goat
-  - goose
-  - rolly polly
-  - crab
-  - reindeer
-  - parrot
-  - crow
-  - bulldog
-  - deer
-  - groundhog
-  - prairie dog
-  - koala
-  - meerkat
-  - dog
-  - manatee
-  - armadillo
-  - earthworm
-  - turtle
-  - monkey
-  - chameleon
-  - otter
-  - ostrich
-  - shrimp
-  - finch
-  - horse
-  - alligator
-  - albatross
-  - fly
-  - ant
-  - bison
-  - bunny
-  - cougar
-  - camel
-  - rat
-  - flounder
-  - pig
-  - coyote
-  - penguin
-  - elk
-  - mallard
-  - chick
-  - boa constrictor
-  - hawk
-  - sheep dog
-  - dinosaur
-  - zebra
-  - lion
-  - leopard
-  - sea turtle
-  - bumblebee
-  - emu
-  - beaver
-  - hive
-  - antelope
-  - sea lion
-  - bush baby
-  - black bear
-  - gopher
-  - aardvark
-  - gerbil
-  - squirrel
-  - cheetah
-  - raven
-  - capybara
-  - moth
-  - human
-  - tortoise
-  - rooster
-  - dove
-  - duck
-  - housecat
-  - moose
-  - mule
-  - shrew
-  - pelican
-  - yak
-  - hamster
-  - wombat
-  - cricket
-  - cub
-  - macaw
-  - herd
-  - inchworm
-  - puppy
-  - robin
-  - hedgehog
-  - chicken
-  - mink
-  - calf
-  - crocodile
-  - fox
-  - mouse
-  - gorilla
-  - badger
-  - school of fish
-  - mosquito
-  - grasshopper
-  - swordfish
-  - poodle
-  - caterpillar
-  - Tasmanian devil
-  - porcupine
-  - owl
-  - cockroach
-  - snail
-  - buffalo
-  - kangaroo
-  - gnu
-  - wasp
-  - barracuda
-  - giraffe
-  - hen
-  - blue whale
-  - piranha
-  - seahorse
-  - Galapagos tortoise
-  - bluebird
-  - clownfish
-  - alpaca
-  - jaguar
-  - chipmunk
-  - tadpole
-  - bald eagle
-  - gazelle
-  - anteater
-  - chimpanzee
-  - walrus
-  - bat
-  - hornet
-  - saber-tooth tiger
-  - parakeet
-  - squid
-  - warthog
-  - chinchilla
-  - bird
-  - pigeon
-  - jellyfish
-  - guinea pig
-  - spider
-  - narwhal
-  - doe
-  - donkey
-  - weasel
-  - swan
-  - ram
-  - joey
-  - snake
-  - seagull
-  - toad
-  - lobster
-  - starfish
-  - llama
-  - hare
-  - falcon
-  - killer whale
-  - shark
-  - eel
-  - bee
-  - panther
-  - hippopotamus
-  - basset hound
-  - flamingo
-  - salmon
-  - raccoon
-  - T-Rex
-  - rhinoceros
-  - jackalope
-  - frog
-  - cow
-  - tuna
-  - stingray
-  - oyster
-  - unicorn
-  - wolf
-  - hummingbird
-  - cobra
-  - water buffalo
-  - wooly mammoth
-  - duckling
-  - ferret
-  - seal
-  - boar
-  - lamb
-  - hammerhead shark
-  - python
-  - iguana
-  - daddy longlegs
-  - three-toed sloth
-  - platypus
   easy:
   - shoelace
   - iron
@@ -767,367 +528,6 @@ catchphrase:
   - page
   - game
   - lunch
-  food:
-  - pea
-  - yam
-  - mozzarella cheese
-  - black beans
-  - fried chicken
-  - chocolate chip cookie
-  - vanilla extract
-  - croutons
-  - sponge cake
-  - chili pepper
-  - cherry pie
-  - chocolate shake
-  - raspberry
-  - hot dogs
-  - clams
-  - sardines
-  - gingerbread
-  - olive
-  - saltine crackers
-  - popsicle
-  - lasagna
-  - granola
-  - shish kabob
-  - breakfast
-  - kale
-  - toaster
-  - ice cream cone
-  - jelly
-  - smoothie
-  - okra
-  - pistachio
-  - Brussels sprouts
-  - baked Alaska
-  - liver
-  - banana
-  - marshmallow
-  - celery
-  - rice
-  - tangerine
-  - Bundt pan
-  - oven mitt
-  - poultry
-  - carrot
-  - tofu
-  - jam
-  - "à la carte"
-  - Swiss cheese
-  - apricot
-  - chicken pot pie
-  - milkshake
-  - blackberry
-  - snickerdoodle
-  - brownie
-  - tomato
-  - basil
-  - pita
-  - candy
-  - chickpea
-  - egg salad
-  - refried beans
-  - ham
-  - custard
-  - cornmeal
-  - lima bean
-  - salad dressing
-  - sourdough bread
-  - sifter
-  - egg
-  - caramel
-  - salt
-  - sugar cookie
-  - curry
-  - grapefruit
-  - spam
-  - beet
-  - pear
-  - broil
-  - veggie burger
-  - salad
-  - baguette
-  - catfish
-  - tempura
-  - lobster
-  - pumpkin seeds
-  - chocolate milk
-  - scrambled eggs
-  - appetizer
-  - cinnamon
-  - lentils
-  - Boston cream pie
-  - lamb
-  - drive-through
-  - pasta
-  - beef
-  - pretzel
-  - grill
-  - ratatouille
-  - wedding cake
-  - garlic
-  - doughnuts
-  - whole milk
-  - lemon zester
-  - almond
-  - salmon
-  - wheat bread
-  - rolls
-  - "cr\x8Fème brûlée"
-  - scone
-  - cabbage
-  - banana split
-  - deep-fry
-  - cutting board
-  - simmer
-  - Canadian bacon
-  - caviar
-  - pomegranate
-  - sea salt
-  - nutmeg
-  - gourd
-  - sweet potato
-  - plum
-  - sun-dried tomatoes
-  - Burger King
-  - muffin tin
-  - meatballs
-  - peach
-  - granola bar
-  - wok
-  - watermelon
-  - bake
-  - birthday cake
-  - banana bread
-  - baked beans
-  - zest
-  - lemon
-  - oatmeal raisin cookies
-  - pork
-  - Bundt cake
-  - lettuce
-  - peanut butter cookies
-  - kumquat
-  - KFC
-  - la carte
-  - squash
-  - flour
-  - grits
-  - soybean
-  - dredge
-  - venison
-  - tomato soup
-  - cashew
-  - cheeseburger
-  - potato chip
-  - cake
-  - hamburger
-  - grape
-  - macaroon
-  - octopus
-  - baking soda
-  - waffle cone
-  - fortune cookie
-  - mac and cheese
-  - oatmeal
-  - cherry
-  - pepperoni pizza
-  - toaster oven
-  - banana pudding
-  - chow mien
-  - green onion
-  - almond extract
-  - cottage cheese
-  - broccoli
-  - guacamole
-  - eggplant
-  - jell-o
-  - spaghetti
-  - gingerbread man
-  - cheddar cheese
-  - orange chicken
-  - baked potatoes
-  - spatula
-  - egg timer
-  - leek
-  - pancake
-  - mushroom
-  - baby carrots
-  - salt shaker
-  - potato salad
-  - apple
-  - angel food cake
-  - fork
-  - melt
-  - peanut
-  - coconut
-  - sloppy joe
-  - milk
-  - broth
-  - walnuts
-  - blender
-  - Kool-aid
-  - cereal
-  - bagel
-  - pizza
-  - whisk
-  - turnip
-  - ginger
-  - garbanzo bean
-  - fruitcake
-  - Taco Bell
-  - napkin
-  - raisin
-  - McDonalds
-  - bread bowl
-  - tortilla
-  - date
-  - taco
-  - chicken soup
-  - chicken salad sandwich
-  - Alfredo sauce
-  - boiled egg
-  - rye bread
-  - corn on the cob
-  - popcorn shrimp
-  - honeydew
-  - all-you-can-eat buffet
-  - meat
-  - asparagus
-  - turkey
-  - chocolate cake
-  - black-eyed pea
-  - deviled eggs
-  - freeze
-  - mustard
-  - frozen yogurt
-  - sandwich
-  - biscuits and gravy
-  - radish
-  - green bean
-  - pancakes
-  - crackers
-  - fruit smoothie
-  - s'mores
-  - popcorn
-  - muffin
-  - BLT
-  - avocado
-  - Balsamic vinegar
-  - chicken fried steak
-  - yogurt
-  - blanch
-  - turkey bacon
-  - green bean casserole
-  - soda
-  - zucchini
-  - jalapeño
-  - meatloaf
-  - tater tots
-  - peanut butter
-  - potato
-  - corn flakes
-  - key lime pie
-  - tortilla chips
-  - cookie
-  - lime
-  - blueberry
-  - pinto beans
-  - parsnip
-  - potatoes au gratin
-  - bran muffins
-  - biscuit
-  - fried rice
-  - Bavarian cream
-  - Twinkies
-  - cheesecake
-  - cinnamon rolls
-  - onion
-  - chicken
-  - macaroni and cheese
-  - papaya
-  - crepe
-  - mashed potatoes
-  - ice cream sundae
-  - horseradish
-  - cheese
-  - french fries
-  - cauliflower
-  - orange
-  - sesame seeds
-  - kiwi
-  - tuna
-  - kidney beans
-  - corndog
-  - wooden spoon
-  - water chestnut
-  - cucumber
-  - salsa
-  - tuna salad
-  - artichoke
-  - parmesan cheese
-  - pumpkin pie
-  - pecan
-  - onion rings
-  - bok choy
-  - flatbread
-  - crab
-  - low-fat
-  - soup de jour
-  - grilled cheese
-  - sushi
-  - ice cream
-  - poach
-  - pineapple
-  - jellybeans
-  - vanilla wafer
-  - cranberry
-  - pineapple upside down cake
-  - frying pan
-  - fig
-  - colander
-  - shrimp
-  - strawberry
-  - marinade
-  - flambé
-  - skim milk
-  - dairy
-  - peanut butter and jelly sandwich
-  - spinach
-  - rolling pin
-  - Pop Tart
-  - fruit salad
-  - cupcakes
-  - buffalo wings
-  - cornbread
-  - clementine
-  - pumpkin
-  - cantaloupe
-  - toast
-  - produce
-  - apple pie
-  - egg nog
-  - carrot cake
-  - sunflower seeds
-  - pudding
-  - paella
-  - ranch dressing
-  - potato chips
-  - bread
-  - soufflé
-  - corn
-  - omelet
-  - waffles
-  - Dutch oven
-  - bell pepper
-  - beef jerky
-  - white bread
-  - barley
-  - egg salad sandwich
-  - soft pretzel
-  - noodles
-  - sweet potatoes
   medium:
   - drums
   - chin
@@ -1501,198 +901,6 @@ catchphrase:
   - beanstalk
   - fad
   - sin
-  travel:
-  - New York City
-  - binoculars
-  - surfboard
-  - summer
-  - Florida
-  - July
-  - England
-  - Scotland
-  - State of Liberty
-  - the Grand Canyon
-  - condo
-  - the Bahamas
-  - the Sphinx
-  - the Nile
-  - Broadway
-  - lake
-  - Istanbul
-  - Greece
-  - Portugal
-  - Austria
-  - Oregon
-  - river
-  - Fiji
-  - Madagascar
-  - California
-  - South Dakota
-  - Barbados
-  - Switzerland
-  - Sydney
-  - Japan
-  - Rome
-  - sunscreen
-  - Asia
-  - scuba diving
-  - the Taj Mahal
-  - the Louvre
-  - Egyptian Pyramids
-  - passport
-  - relax
-  - Boston
-  - Buckingham Palace
-  - Turkey
-  - San Francisco
-  - Hong Kong
-  - the White House
-  - Honolulu
-  - Universal Studios
-  - bicycle
-  - sleeping bag
-  - coral reef
-  - fanny pack
-  - Tokyo
-  - beach house
-  - the Mayan ruins
-  - lazy river
-  - Arizona
-  - map
-  - Canada
-  - Paris
-  - Great Wall of China
-  - layover
-  - Six Flags
-  - Texas
-  - New Zealand
-  - Los Angeles
-  - bird watching
-  - mountain biking
-  - the Eiffel Tower
-  - Luxembourg
-  - island
-  - family reunion
-  - airline
-  - Colorado
-  - hiking
-  - river rafting
-  - Easter Island
-  - camera
-  - scenery
-  - Bermuda
-  - Orlando
-  - Disneyland
-  - Sacramento
-  - backpacking
-  - customs
-  - Niagara Falls
-  - rainforest
-  - sunset
-  - skiing
-  - boardwalk
-  - Galapagos Islands
-  - theme park
-  - Italy
-  - hotel
-  - the Coliseum
-  - road trip
-  - vacation day
-  - Beijing
-  - Barcelona
-  - London
-  - safari
-  - camping
-  - snowboarding
-  - Mediterranean Sea
-  - Europe
-  - Atlantic Ocean
-  - time off
-  - money belt
-  - Delaware
-  - national park
-  - Australia
-  - Ireland
-  - suitcase
-  - the Thames
-  - London Bridge
-  - Pacific Ocean
-  - Four Corners
-  - Belgium
-  - Mount Rushmore
-  - Yellowstone
-  - sightseeing
-  - sunglasses
-  - packing
-  - Washington D.C.
-  - Aruba
-  - airplane
-  - Maine
-  - Say "cheese"
-  - party
-  - sunshine
-  - honeymoon
-  - shopping
-  - Venice
-  - Stonehenge
-  - Manhattan Island
-  - France
-  - Hawaii
-  - Antarctica
-  - Guam
-  - Egypt
-  - Vienna
-  - Mexico
-  - airport security
-  - Las Vegas
-  - tour guide
-  - Africa
-  - Carlsbad Caverns
-  - Brazil
-  - resort
-  - bug spray
-  - Arctic Ocean
-  - suntan
-  - the Mississippi River
-  - Alaska
-  - sunny weather
-  - America
-  - the Golden Gate Bridge
-  - June
-  - tourist
-  - cruise ship
-  - Mount Everest
-  - snow cone
-  - luggage
-  - swimming pool
-  - water park
-  - the Great Barrier Reef
-  - stroll
-  - first class
-  - Spain
-  - Jamaica
-  - movies
-  - Costa Rica
-  - airport
-  - kayak
-  - hang glider
-  - candy
-  - China
-  - Are we there yet?
-  - Miami
-  - South Africa
-  - Nepal
-  - Empire State Building
-  - the Dead Sea
-  - beach ball
-  - trains
-  - Big Ben
-  - holiday
-  - Puerto Rico
-  - Ayers Rock
-  - the Amazon Rainforest
-  - Athens
-  - Singapore
   hard:
   - teleconference
   - audacity
@@ -1964,6 +1172,798 @@ catchphrase:
   - coal
   - underestimate
   - sequins
+  animals:
+  - cat
+  - mole
+  - komodo dragon
+  - ewe
+  - snapping turtle
+  - catfish
+  - polar bear
+  - wildebeest
+  - stallion
+  - Canadian goose
+  - crane
+  - partridge
+  - toucan
+  - worm
+  - whale
+  - trout
+  - baboon
+  - stork
+  - hyena
+  - panda
+  - canary
+  - ape
+  - skunk
+  - bear
+  - dolphin
+  - dragon
+  - pony
+  - kitten
+  - clam
+  - rabbit
+  - bass
+  - tiger
+  - ox
+  - elephant
+  - sheep
+  - humpback whale
+  - dragonfly
+  - flock
+  - butterfly
+  - dodo bird
+  - blowfish
+  - turkey
+  - ladybug
+  - gila monster
+  - salamander
+  - lemur
+  - grizzly
+  - lark
+  - eagle
+  - goat
+  - goose
+  - rolly polly
+  - crab
+  - reindeer
+  - parrot
+  - crow
+  - bulldog
+  - deer
+  - groundhog
+  - prairie dog
+  - koala
+  - meerkat
+  - dog
+  - manatee
+  - armadillo
+  - earthworm
+  - turtle
+  - monkey
+  - chameleon
+  - otter
+  - ostrich
+  - shrimp
+  - finch
+  - horse
+  - alligator
+  - albatross
+  - fly
+  - ant
+  - bison
+  - bunny
+  - cougar
+  - camel
+  - rat
+  - flounder
+  - pig
+  - coyote
+  - penguin
+  - elk
+  - mallard
+  - chick
+  - boa constrictor
+  - hawk
+  - sheep dog
+  - dinosaur
+  - zebra
+  - lion
+  - leopard
+  - sea turtle
+  - bumblebee
+  - emu
+  - beaver
+  - hive
+  - antelope
+  - sea lion
+  - bush baby
+  - black bear
+  - gopher
+  - aardvark
+  - gerbil
+  - squirrel
+  - cheetah
+  - raven
+  - capybara
+  - moth
+  - human
+  - tortoise
+  - rooster
+  - dove
+  - duck
+  - housecat
+  - moose
+  - mule
+  - shrew
+  - pelican
+  - yak
+  - hamster
+  - wombat
+  - cricket
+  - cub
+  - macaw
+  - herd
+  - inchworm
+  - puppy
+  - robin
+  - hedgehog
+  - chicken
+  - mink
+  - calf
+  - crocodile
+  - fox
+  - mouse
+  - gorilla
+  - badger
+  - school of fish
+  - mosquito
+  - grasshopper
+  - swordfish
+  - poodle
+  - caterpillar
+  - Tasmanian devil
+  - porcupine
+  - owl
+  - cockroach
+  - snail
+  - buffalo
+  - kangaroo
+  - gnu
+  - wasp
+  - barracuda
+  - giraffe
+  - hen
+  - blue whale
+  - piranha
+  - seahorse
+  - Galapagos tortoise
+  - bluebird
+  - clownfish
+  - alpaca
+  - jaguar
+  - chipmunk
+  - tadpole
+  - bald eagle
+  - gazelle
+  - anteater
+  - chimpanzee
+  - walrus
+  - bat
+  - hornet
+  - saber-tooth tiger
+  - parakeet
+  - squid
+  - warthog
+  - chinchilla
+  - bird
+  - pigeon
+  - jellyfish
+  - guinea pig
+  - spider
+  - narwhal
+  - doe
+  - donkey
+  - weasel
+  - swan
+  - ram
+  - joey
+  - snake
+  - seagull
+  - toad
+  - lobster
+  - starfish
+  - llama
+  - hare
+  - falcon
+  - killer whale
+  - shark
+  - eel
+  - bee
+  - panther
+  - hippopotamus
+  - basset hound
+  - flamingo
+  - salmon
+  - raccoon
+  - T-Rex
+  - rhinoceros
+  - jackalope
+  - frog
+  - cow
+  - tuna
+  - stingray
+  - oyster
+  - unicorn
+  - wolf
+  - hummingbird
+  - cobra
+  - water buffalo
+  - wooly mammoth
+  - duckling
+  - ferret
+  - seal
+  - boar
+  - lamb
+  - hammerhead shark
+  - python
+  - iguana
+  - daddy longlegs
+  - three-toed sloth
+  - platypus
+  food:
+  - pea
+  - yam
+  - mozzarella cheese
+  - black beans
+  - fried chicken
+  - chocolate chip cookie
+  - vanilla extract
+  - croutons
+  - sponge cake
+  - chili pepper
+  - cherry pie
+  - chocolate shake
+  - raspberry
+  - hot dogs
+  - clams
+  - sardines
+  - gingerbread
+  - olive
+  - saltine crackers
+  - popsicle
+  - lasagna
+  - granola
+  - shish kabob
+  - breakfast
+  - kale
+  - toaster
+  - ice cream cone
+  - jelly
+  - smoothie
+  - okra
+  - pistachio
+  - Brussels sprouts
+  - baked Alaska
+  - liver
+  - banana
+  - marshmallow
+  - celery
+  - rice
+  - tangerine
+  - Bundt pan
+  - oven mitt
+  - poultry
+  - carrot
+  - tofu
+  - jam
+  - "à la carte"
+  - Swiss cheese
+  - apricot
+  - chicken pot pie
+  - milkshake
+  - blackberry
+  - snickerdoodle
+  - brownie
+  - tomato
+  - basil
+  - pita
+  - candy
+  - chickpea
+  - egg salad
+  - refried beans
+  - ham
+  - custard
+  - cornmeal
+  - lima bean
+  - salad dressing
+  - sourdough bread
+  - sifter
+  - egg
+  - caramel
+  - salt
+  - sugar cookie
+  - curry
+  - grapefruit
+  - spam
+  - beet
+  - pear
+  - broil
+  - veggie burger
+  - salad
+  - baguette
+  - catfish
+  - tempura
+  - lobster
+  - pumpkin seeds
+  - chocolate milk
+  - scrambled eggs
+  - appetizer
+  - cinnamon
+  - lentils
+  - Boston cream pie
+  - lamb
+  - drive-through
+  - pasta
+  - beef
+  - pretzel
+  - grill
+  - ratatouille
+  - wedding cake
+  - garlic
+  - doughnuts
+  - whole milk
+  - lemon zester
+  - almond
+  - salmon
+  - wheat bread
+  - rolls
+  - "cr\x8Fème brûlée"
+  - scone
+  - cabbage
+  - banana split
+  - deep-fry
+  - cutting board
+  - simmer
+  - Canadian bacon
+  - caviar
+  - pomegranate
+  - sea salt
+  - nutmeg
+  - gourd
+  - sweet potato
+  - plum
+  - sun-dried tomatoes
+  - Burger King
+  - muffin tin
+  - meatballs
+  - peach
+  - granola bar
+  - wok
+  - watermelon
+  - bake
+  - birthday cake
+  - banana bread
+  - baked beans
+  - zest
+  - lemon
+  - oatmeal raisin cookies
+  - pork
+  - Bundt cake
+  - lettuce
+  - peanut butter cookies
+  - kumquat
+  - KFC
+  - la carte
+  - squash
+  - flour
+  - grits
+  - soybean
+  - dredge
+  - venison
+  - tomato soup
+  - cashew
+  - cheeseburger
+  - potato chip
+  - cake
+  - hamburger
+  - grape
+  - macaroon
+  - octopus
+  - baking soda
+  - waffle cone
+  - fortune cookie
+  - mac and cheese
+  - oatmeal
+  - cherry
+  - pepperoni pizza
+  - toaster oven
+  - banana pudding
+  - chow mien
+  - green onion
+  - almond extract
+  - cottage cheese
+  - broccoli
+  - guacamole
+  - eggplant
+  - jell-o
+  - spaghetti
+  - gingerbread man
+  - cheddar cheese
+  - orange chicken
+  - baked potatoes
+  - spatula
+  - egg timer
+  - leek
+  - pancake
+  - mushroom
+  - baby carrots
+  - salt shaker
+  - potato salad
+  - apple
+  - angel food cake
+  - fork
+  - melt
+  - peanut
+  - coconut
+  - sloppy joe
+  - milk
+  - broth
+  - walnuts
+  - blender
+  - Kool-aid
+  - cereal
+  - bagel
+  - pizza
+  - whisk
+  - turnip
+  - ginger
+  - garbanzo bean
+  - fruitcake
+  - Taco Bell
+  - napkin
+  - raisin
+  - McDonalds
+  - bread bowl
+  - tortilla
+  - date
+  - taco
+  - chicken soup
+  - chicken salad sandwich
+  - Alfredo sauce
+  - boiled egg
+  - rye bread
+  - corn on the cob
+  - popcorn shrimp
+  - honeydew
+  - all-you-can-eat buffet
+  - meat
+  - asparagus
+  - turkey
+  - chocolate cake
+  - black-eyed pea
+  - deviled eggs
+  - freeze
+  - mustard
+  - frozen yogurt
+  - sandwich
+  - biscuits and gravy
+  - radish
+  - green bean
+  - pancakes
+  - crackers
+  - fruit smoothie
+  - s'mores
+  - popcorn
+  - muffin
+  - BLT
+  - avocado
+  - Balsamic vinegar
+  - chicken fried steak
+  - yogurt
+  - blanch
+  - turkey bacon
+  - green bean casserole
+  - soda
+  - zucchini
+  - jalapeño
+  - meatloaf
+  - tater tots
+  - peanut butter
+  - potato
+  - corn flakes
+  - key lime pie
+  - tortilla chips
+  - cookie
+  - lime
+  - blueberry
+  - pinto beans
+  - parsnip
+  - potatoes au gratin
+  - bran muffins
+  - biscuit
+  - fried rice
+  - Bavarian cream
+  - Twinkies
+  - cheesecake
+  - cinnamon rolls
+  - onion
+  - chicken
+  - macaroni and cheese
+  - papaya
+  - crepe
+  - mashed potatoes
+  - ice cream sundae
+  - horseradish
+  - cheese
+  - french fries
+  - cauliflower
+  - orange
+  - sesame seeds
+  - kiwi
+  - tuna
+  - kidney beans
+  - corndog
+  - wooden spoon
+  - water chestnut
+  - cucumber
+  - salsa
+  - tuna salad
+  - artichoke
+  - parmesan cheese
+  - pumpkin pie
+  - pecan
+  - onion rings
+  - bok choy
+  - flatbread
+  - crab
+  - low-fat
+  - soup de jour
+  - grilled cheese
+  - sushi
+  - ice cream
+  - poach
+  - pineapple
+  - jellybeans
+  - vanilla wafer
+  - cranberry
+  - pineapple upside down cake
+  - frying pan
+  - fig
+  - colander
+  - shrimp
+  - strawberry
+  - marinade
+  - flambé
+  - skim milk
+  - dairy
+  - peanut butter and jelly sandwich
+  - spinach
+  - rolling pin
+  - Pop Tart
+  - fruit salad
+  - cupcakes
+  - buffalo wings
+  - cornbread
+  - clementine
+  - pumpkin
+  - cantaloupe
+  - toast
+  - produce
+  - apple pie
+  - egg nog
+  - carrot cake
+  - sunflower seeds
+  - pudding
+  - paella
+  - ranch dressing
+  - potato chips
+  - bread
+  - soufflé
+  - corn
+  - omelet
+  - waffles
+  - Dutch oven
+  - bell pepper
+  - beef jerky
+  - white bread
+  - barley
+  - egg salad sandwich
+  - soft pretzel
+  - noodles
+  - sweet potatoes
+  travel:
+  - New York City
+  - binoculars
+  - surfboard
+  - summer
+  - Florida
+  - July
+  - England
+  - Scotland
+  - State of Liberty
+  - the Grand Canyon
+  - condo
+  - the Bahamas
+  - the Sphinx
+  - the Nile
+  - Broadway
+  - lake
+  - Istanbul
+  - Greece
+  - Portugal
+  - Austria
+  - Oregon
+  - river
+  - Fiji
+  - Madagascar
+  - California
+  - South Dakota
+  - Barbados
+  - Switzerland
+  - Sydney
+  - Japan
+  - Rome
+  - sunscreen
+  - Asia
+  - scuba diving
+  - the Taj Mahal
+  - the Louvre
+  - Egyptian Pyramids
+  - passport
+  - relax
+  - Boston
+  - Buckingham Palace
+  - Turkey
+  - San Francisco
+  - Hong Kong
+  - the White House
+  - Honolulu
+  - Universal Studios
+  - bicycle
+  - sleeping bag
+  - coral reef
+  - fanny pack
+  - Tokyo
+  - beach house
+  - the Mayan ruins
+  - lazy river
+  - Arizona
+  - map
+  - Canada
+  - Paris
+  - Great Wall of China
+  - layover
+  - Six Flags
+  - Texas
+  - New Zealand
+  - Los Angeles
+  - bird watching
+  - mountain biking
+  - the Eiffel Tower
+  - Luxembourg
+  - island
+  - family reunion
+  - airline
+  - Colorado
+  - hiking
+  - river rafting
+  - Easter Island
+  - camera
+  - scenery
+  - Bermuda
+  - Orlando
+  - Disneyland
+  - Sacramento
+  - backpacking
+  - customs
+  - Niagara Falls
+  - rainforest
+  - sunset
+  - skiing
+  - boardwalk
+  - Galapagos Islands
+  - theme park
+  - Italy
+  - hotel
+  - the Coliseum
+  - road trip
+  - vacation day
+  - Beijing
+  - Barcelona
+  - London
+  - safari
+  - camping
+  - snowboarding
+  - Mediterranean Sea
+  - Europe
+  - Atlantic Ocean
+  - time off
+  - money belt
+  - Delaware
+  - national park
+  - Australia
+  - Ireland
+  - suitcase
+  - the Thames
+  - London Bridge
+  - Pacific Ocean
+  - Four Corners
+  - Belgium
+  - Mount Rushmore
+  - Yellowstone
+  - sightseeing
+  - sunglasses
+  - packing
+  - Washington D.C.
+  - Aruba
+  - airplane
+  - Maine
+  - Say "cheese"
+  - party
+  - sunshine
+  - honeymoon
+  - shopping
+  - Venice
+  - Stonehenge
+  - Manhattan Island
+  - France
+  - Hawaii
+  - Antarctica
+  - Guam
+  - Egypt
+  - Vienna
+  - Mexico
+  - airport security
+  - Las Vegas
+  - tour guide
+  - Africa
+  - Carlsbad Caverns
+  - Brazil
+  - resort
+  - bug spray
+  - Arctic Ocean
+  - suntan
+  - the Mississippi River
+  - Alaska
+  - sunny weather
+  - America
+  - the Golden Gate Bridge
+  - June
+  - tourist
+  - cruise ship
+  - Mount Everest
+  - snow cone
+  - luggage
+  - swimming pool
+  - water park
+  - the Great Barrier Reef
+  - stroll
+  - first class
+  - Spain
+  - Jamaica
+  - movies
+  - Costa Rica
+  - airport
+  - kayak
+  - hang glider
+  - candy
+  - China
+  - Are we there yet?
+  - Miami
+  - South Africa
+  - Nepal
+  - Empire State Building
+  - the Dead Sea
+  - beach ball
+  - trains
+  - Big Ben
+  - holiday
+  - Puerto Rico
+  - Ayers Rock
+  - the Amazon Rainforest
+  - Athens
+  - Singapore
   people:
   - Marie Curie
   - Samuel L. Jackson
@@ -2987,519 +2987,167 @@ holidays:
   - ants
   - crickets
 pictionary:
-  idioms:
-  - at the bottom of the totem pole
-  - a bird in the hand is worth two in the bush
-  - in a pickle
-  - you catch more flies with honey than with vinegar
-  - up a creek without a paddle
-  - grass is always greener on the other side
-  - tie the knot
-  - get cold feet
-  - think outside the box
-  - why the long face?
-  - couch potato
-  - break a leg
-  - on the same page
-  - water under the bridge
-  - bite off more than you can chew
-  - small potatoes
-  - skeleton in the closet
-  - cat got your tongue
-  - ducks in a row
-  - spill the beans
-  - out of this world
-  - butterflies in your stomach
-  - pass the buck
-  - shoot the breeze
-  - not the only fish in the sea
-  - be all ears
-  - the cat's meow
-  - back to square one
-  - smarty pants
-  - set in stone
-  - knock your socks off
-  - my way or the highway
-  - let the cat out of the bag
-  - pick up the pace
-  - hit the nail on the head
-  - money doesn't grow on trees
-  - like watching paint dry
-  - wake up on the wrong side of the bed
-  - birds of a feather flock together
-  - over the moon
-  - from the bottom of my heart
-  - cut the rug
-  - scared stiff
-  - everybody and their dog
-  - busy bee
-  - a fifth wheel
-  - give my two cents
-  - open a can of worms
-  - go out on a limb
-  - in one ear and out the other
-  - reinvent the wheel
-  - in hot water
-  - a wolf in sheep's clothing
-  - out like a light
-  - in a nutshell
-  - too many irons in the fire
-  - have your cake and eat it too
-  - burn the candle at both ends
-  - out of sight, out of mind
-  - easy as falling off a log
-  - close, but no cigar
-  - just a drop in the bucket
-  - everything but the kitchen sink
-  - bull in a china closet
-  - stop cold turkey
-  - caught with your hand in the cookie jar
-  - get the ball rolling
-  - give him a piece of my mind
-  - when pigs fly
-  - teach an old dog new tricks
-  - don't rock the boat
-  - the bee's knees
-  - hold down the fort
-  - puppy love
-  - more than you can shake a stick at
-  - head over heels in love
-  - eat like a bird
-  - chip off the old block
-  - when it rains, it pours
-  - light at the end of the tunnel
-  - like a deer in the headlights
-  - better the devil you know
-  - sweet tooth
-  - dog and pony show
-  - burst your bubble
-  - pull someone's leg
-  - the lion's share
-  - raining cats and dogs
-  - bouncing off the walls
-  - in a jam
-  - burning bridges
-  - put it on the back burner
-  - so hungry I could eat a horse
-  - the way the cookie crumbles
-  - hit the road
-  - ballpark figure
-  - too many cooks in the kitchen
-  - ball is in your court
-  - draw the shortest straw
-  - in over your head
-  - a little bird told me
-  - fence-sitter
-  - down in the dumps
-  - push the envelope
-  - not my cup of tea
-  - hold your tongue
-  - wet blanket
-  - hold your horses
-  - recharge your batteries
-  - bring home the bacon
-  - go the extra mile
-  - keep your eye on the ball
-  - always a bridesmaid, never a bride
-  - money burns a hole in your pocket
-  - cost an arm and a leg
-  - kick the bucket
-  - where there's smoke, there's fire
-  - a stone's throw away
-  - straw that broke the camel's back
-  - get your feathers in a bunch
-  - the cold shoulder
-  - put your foot in your mouth
-  - take a leaf out of his book
-  - big fish in a small pond
-  - one foot in the door
-  - cry over spilt milk
-  - as the crow flies
-  - rub salt in an open wound
-  - pop the question
-  - out of the frying pan and into the fire
-  - take it with a grain of salt
-  - crocodile tears
-  - steal my thunder
-  - every cloud has a silver lining
-  - in the same boat
-  - out of my hair
-  - a fly on the wall
-  - fit as a fiddle
-  - ants in your pants
-  - all your eggs in one basket
-  - in the doghouse
-  - have two left feet
-  - stiff upper lip
-  - keep your chin up
-  - bury the hatchet
-  - cast pearls before swine
-  - over the hill
-  - stick out like a sore thumb
-  - like taking candy from a baby
-  - peanut gallery
-  - have a cow
-  - apple of my eye
-  - early bird gets the worm
-  - frog in your throat
-  - grab the bull by the horns
-  - bite the dust
-  - your eyes are bigger than your stomach
-  - while the cat's away, the mice will play
-  - fly off the handle
-  - at arm's length
-  - rise above the blues
-  - hit the sack
-  - like shooting fish in a barrel
-  - bring the house down
-  - squeaky wheel gets the grease
-  - at the end of your rope
-  - put your foot down
-  - fraidey cat
-  - get your feet wet
-  - throw a wrench in the works
-  - carry a tune
-  - needle in a haystack
-  - sweep you off your feet
-  - piece of cake
-  - fish or cut bait
-  - hit the books
-  - make a mountain out of a molehill
-  - a bolt out of the blue
-  - good fences make good neighbors
-  - bend over backwards
-  - teacher's pet
-  - cross the bridge when we come to it
-  - chip on your shoulder
-  - throw the towel in
-  - make a beeline for
-  - feeling under the weather
-  - comparing apples and oranges
-  - at the top of your lungs
-  - someone with a hollow leg
-  - barking up the wrong tree
-  - dropping like flies
-  - in the lap of luxury
-  - wallflower
-  - full of hot air
-  - bright as a button
-  - egg on your face
-  - between a rock and a hard place
-  - paint yourself into a corner
-  - on top of the world
-  - green thumb
-  - you're toast
-  - roll out the red carpet
-  - two peas in a pod
-  - baker's dozen
-  - bigger fish to fry
-  - heard it through the grapevine
-  - one smart cookie
-  - ruffle a few feathers
-  - icing on the cake
-  - best thing since sliced bread
-  hard:
-  - offstage
-  - eureka
-  - zero
-  - riddle
-  - soul
-  - president
-  - psychologist
-  - opaque
-  - acre
-  - mine car
-  - landfill
-  - flutter
-  - tinting
-  - expired
-  - archaeologist
-  - exponential
-  - con
-  - Chick-fil-A
-  - stowaway
-  - password
-  - overture
-  - Zen
-  - lyrics
-  - pride
-  - translate
-  - nutmeg
-  - inertia
-  - addendum
-  - neutron
-  - blunt
-  - blacksmith
-  - stockholder
-  - positive
-  - gallop
-  - vision
-  - observatory
-  - random
-  - carat
-  - ligament
-  - ice fishing
-  - fragment
-  - publisher
-  - figment
-  - compromise
-  - Everglades
-  - ironic
-  - jig
-  - crisp
-  - interference
-  - implode
-  - philosopher
-  - clue
-  - telepathy
-  - drift
-  - handful
-  - champion
-  - intern
-  - default
-  - brunette
-  - slump
-  - armada
-  - loiterer
-  - flotsam
-  - pomp
-  - century
-  - mooch
-  - freshwater
-  - pastry
-  - lichen
-  - trademark
-  - infection
-  - siesta
-  - parody
-  - snag
-  - chaos
-  - czar
-  - tournament
-  - aristocrat
-  - reimbursement
-  - hang ten
-  - blueprint
-  - stout
-  - upgrade
-  - quarantine
-  - Atlantis
-  - population
-  - kilogram
-  - panic
-  - brainstorm
-  - standing ovation
-  - transpose
-  - periwinkle
-  - twang
-  - inquisition
-  - protestant
-  - tutor
-  - cartography
-  - rainwater
-  - coast
-  difficult:
-  - drought
-  - professor
-  - barber
-  - kneel
-  - orbit
-  - germ
-  - darts
-  - dance
-  - cape
-  - beanstalk
-  - sushi
-  - baby-sitter
-  - ping pong
-  - mime
-  - Heinz 57
-  - half
-  - swamp
-  - sheep dog
-  - macaroni
-  - hurdle
-  - Internet
-  - lie
-  - logo
-  - rind
-  - fireman pole
-  - raft
-  - wig
-  - salmon
-  - pigpen
-  - letter opener
-  - cabin
-  - fireside
-  - cell phone charger
-  - dent
-  - jungle
-  - dripping
-  - saddle
-  - fabric
-  - sleep
-  - mirror
-  - ski goggles
-  - ringleader
-  - scream
-  - point
-  - neighborhood
-  - yardstick
-  - applause
-  - cliff
-  - loveseat
-  - sponge
-  - chess
-  - grandpa
-  - peasant
-  - cruise
-  - CD
-  - drawback
-  - chestnut
-  - yolk
-  - pilot
-  - season
-  - bedbug
-  - world
-  - important
-  - bleach
-  - biscuit
-  - bobsled
-  - pharmacist
-  - shampoo
-  - swarm
-  - moth
-  - sneeze
-  - deep
-  - sunburn
-  - pizza sauce
-  - houseboat
-  - password
-  - dryer sheets
-  - migrate
-  - snag
-  - koala
-  - catalog
-  - husband
-  - darkness
-  - shower curtain
-  - rib
-  - extension cord
-  - honk
-  - landscape
-  - water buffalo
-  - wooly mammoth
-  - cheerleader
-  - cloak
-  - birthday
-  - nightmare
-  - fizz
-  - clog
-  - myth
-  - wind
-  - banister
-  - post office
-  - knight
-  - rim
-  - think
-  - bride
-  - comfy
-  - hydrogen
-  - baguette
-  - vitamin
-  - lace
-  - tiptoe
-  - sweater vest
-  - pail
-  - glitter
-  - plow
-  - retail
-  - leak
-  - pocket
-  - crust
-  - mascot
-  - macho
-  - hail
-  - bargain
-  - time machine
-  - drain
-  - vegetarian
-  - bookend
-  - ivy
-  - taxi
-  - foil
-  - mast
-  - gold
-  - chime
-  - commercial
-  - quicksand
-  - crow's nest
-  - lap
-  - diagonal
-  - juggle
-  - dorsal
-  - exercise
-  - drip
-  - boa constrictor
-  - handle
-  - rubber
-  - speakers
-  - s'mores
-  - fiddle
-  - puppet
-  - pro
-  - jazz
-  - cardboard
-  - dream
-  - glue stick
-  - bonnet
-  - chef
-  - runt
-  - plank
-  - full
-  - ditch
-  - hut
-  - whisk
-  - avocado
-  - zipper
-  - dizzy
-  - oar
-  - mold
-  - recycle
-  - wag
-  - fog
-  - bald
-  - ceiling fan
-  - traffic jam
-  - firefighter
-  - picnic
-  - newsletter
-  - wax
-  - shrew
-  - dentist
-  - gasoline
-  - brand
-  - welder
-  - wedding cake
-  - dashboard
-  - caviar
-  - laser
-  - download
-  - baggage
-  - bruise
-  - punk
-  - sandbox
-  - hot tub
-  - shrink ray
-  - safe
-  - goblin
-  - baseboards
-  - dust bunny
-  - double
-  - wobble
-  - coach
-  - lung
-  - zoo
+  easy:
+  - pen
+  - caterpillar
+  - rocket
+  - alligator
+  - pizza
+  - shirt
+  - kite
+  - eyes
+  - chair
+  - cup
+  - jacket
+  - hippo
+  - bird
+  - monster
+  - bracelet
+  - coat
+  - balloon
+  - dinosaur
+  - head
+  - book
+  - mouse
+  - smile
+  - bridge
+  - blocks
+  - milk
+  - eye
+  - oval
+  - snowflake
+  - broom
+  - cheese
+  - lion
+  - lips
+  - beach
+  - cloud
+  - bus
+  - elephant
+  - sunglasses
+  - lemon
+  - star
+  - spoon
+  - boat
+  - turtle
+  - drum
+  - doll
+  - ant
+  - motorcycle
+  - bike
+  - pencil
+  - bunk bed
+  - moon
+  - inchworm
+  - slide
+  - hat
+  - cat
+  - tail
+  - helicopter
+  - square
+  - Mickey Mouse
+  - octopus
+  - door
+  - table
+  - egg
+  - bell
+  - nose
+  - spider
+  - horse
+  - finger
+  - glasses
+  - jar
+  - girl
+  - ear
+  - lizard
+  - flower
+  - snowman
+  - baby
+  - car
+  - bread
+  - blanket
+  - apple
+  - bench
+  - skateboard
+  - pig
+  - ice cream cone
+  - frog
+  - feet
+  - lollipop
+  - heart
+  - ears
+  - bed
+  - carrot
+  - person
+  - boy
+  - train
+  - truck
+  - bug
+  - legs
+  - bowl
+  - lamp
+  - desk
+  - purse
+  - light
+  - mountain
+  - snail
+  - basketball
+  - orange
+  - bear
+  - chicken
+  - grass
+  - cookie
+  - clock
+  - ghost
+  - spider web
+  - ocean
+  - monkey
+  - shoe
+  - dog
+  - face
+  - circle
+  - water
+  - butterfly
+  - house
+  - robot
+  - mouth
+  - branch
+  - worm
+  - socks
+  - grapes
+  - crab
+  - banana
+  - computer
+  - bee
+  - whale
+  - seashell
+  - snake
+  - sun
+  - swing
+  - bat
+  - pie
+  - wheel
+  - bunny
+  - hand
+  - cherry
+  - jellyfish
+  - tree
+  - stairs
+  - duck
+  - leaf
+  - dragon
+  - giraffe
+  - ball
+  - pants
+  - ring
+  - airplane
+  - candle
+  - cow
+  - cupcake
+  - football
+  - hamburger
+  - bone
+  - corn
   medium:
   - trip
   - cobra
@@ -3892,167 +3540,519 @@ pictionary:
   - river
   - sunflower
   - mouth
-  easy:
-  - pen
-  - caterpillar
-  - rocket
-  - alligator
-  - pizza
-  - shirt
-  - kite
-  - eyes
-  - chair
-  - cup
-  - jacket
-  - hippo
-  - bird
-  - monster
-  - bracelet
-  - coat
-  - balloon
-  - dinosaur
-  - head
-  - book
-  - mouse
-  - smile
-  - bridge
-  - blocks
-  - milk
-  - eye
-  - oval
-  - snowflake
-  - broom
-  - cheese
-  - lion
-  - lips
-  - beach
-  - cloud
-  - bus
-  - elephant
-  - sunglasses
-  - lemon
-  - star
-  - spoon
-  - boat
-  - turtle
-  - drum
-  - doll
-  - ant
-  - motorcycle
-  - bike
-  - pencil
-  - bunk bed
-  - moon
-  - inchworm
-  - slide
-  - hat
-  - cat
-  - tail
-  - helicopter
-  - square
-  - Mickey Mouse
-  - octopus
-  - door
-  - table
-  - egg
-  - bell
-  - nose
-  - spider
-  - horse
-  - finger
-  - glasses
-  - jar
-  - girl
-  - ear
-  - lizard
-  - flower
-  - snowman
-  - baby
-  - car
-  - bread
-  - blanket
-  - apple
-  - bench
-  - skateboard
-  - pig
-  - ice cream cone
-  - frog
-  - feet
-  - lollipop
-  - heart
-  - ears
-  - bed
-  - carrot
-  - person
-  - boy
-  - train
-  - truck
-  - bug
-  - legs
-  - bowl
-  - lamp
-  - desk
-  - purse
-  - light
-  - mountain
-  - snail
-  - basketball
-  - orange
-  - bear
-  - chicken
-  - grass
-  - cookie
-  - clock
-  - ghost
-  - spider web
-  - ocean
-  - monkey
-  - shoe
-  - dog
-  - face
-  - circle
-  - water
-  - butterfly
-  - house
-  - robot
-  - mouth
-  - branch
-  - worm
-  - socks
-  - grapes
-  - crab
-  - banana
-  - computer
-  - bee
-  - whale
-  - seashell
-  - snake
-  - sun
-  - swing
-  - bat
-  - pie
-  - wheel
-  - bunny
-  - hand
-  - cherry
-  - jellyfish
-  - tree
-  - stairs
-  - duck
-  - leaf
-  - dragon
-  - giraffe
-  - ball
-  - pants
-  - ring
-  - airplane
-  - candle
-  - cow
-  - cupcake
-  - football
-  - hamburger
-  - bone
-  - corn
+  difficult:
+  - drought
+  - professor
+  - barber
+  - kneel
+  - orbit
+  - germ
+  - darts
+  - dance
+  - cape
+  - beanstalk
+  - sushi
+  - baby-sitter
+  - ping pong
+  - mime
+  - Heinz 57
+  - half
+  - swamp
+  - sheep dog
+  - macaroni
+  - hurdle
+  - Internet
+  - lie
+  - logo
+  - rind
+  - fireman pole
+  - raft
+  - wig
+  - salmon
+  - pigpen
+  - letter opener
+  - cabin
+  - fireside
+  - cell phone charger
+  - dent
+  - jungle
+  - dripping
+  - saddle
+  - fabric
+  - sleep
+  - mirror
+  - ski goggles
+  - ringleader
+  - scream
+  - point
+  - neighborhood
+  - yardstick
+  - applause
+  - cliff
+  - loveseat
+  - sponge
+  - chess
+  - grandpa
+  - peasant
+  - cruise
+  - CD
+  - drawback
+  - chestnut
+  - yolk
+  - pilot
+  - season
+  - bedbug
+  - world
+  - important
+  - bleach
+  - biscuit
+  - bobsled
+  - pharmacist
+  - shampoo
+  - swarm
+  - moth
+  - sneeze
+  - deep
+  - sunburn
+  - pizza sauce
+  - houseboat
+  - password
+  - dryer sheets
+  - migrate
+  - snag
+  - koala
+  - catalog
+  - husband
+  - darkness
+  - shower curtain
+  - rib
+  - extension cord
+  - honk
+  - landscape
+  - water buffalo
+  - wooly mammoth
+  - cheerleader
+  - cloak
+  - birthday
+  - nightmare
+  - fizz
+  - clog
+  - myth
+  - wind
+  - banister
+  - post office
+  - knight
+  - rim
+  - think
+  - bride
+  - comfy
+  - hydrogen
+  - baguette
+  - vitamin
+  - lace
+  - tiptoe
+  - sweater vest
+  - pail
+  - glitter
+  - plow
+  - retail
+  - leak
+  - pocket
+  - crust
+  - mascot
+  - macho
+  - hail
+  - bargain
+  - time machine
+  - drain
+  - vegetarian
+  - bookend
+  - ivy
+  - taxi
+  - foil
+  - mast
+  - gold
+  - chime
+  - commercial
+  - quicksand
+  - crow's nest
+  - lap
+  - diagonal
+  - juggle
+  - dorsal
+  - exercise
+  - drip
+  - boa constrictor
+  - handle
+  - rubber
+  - speakers
+  - s'mores
+  - fiddle
+  - puppet
+  - pro
+  - jazz
+  - cardboard
+  - dream
+  - glue stick
+  - bonnet
+  - chef
+  - runt
+  - plank
+  - full
+  - ditch
+  - hut
+  - whisk
+  - avocado
+  - zipper
+  - dizzy
+  - oar
+  - mold
+  - recycle
+  - wag
+  - fog
+  - bald
+  - ceiling fan
+  - traffic jam
+  - firefighter
+  - picnic
+  - newsletter
+  - wax
+  - shrew
+  - dentist
+  - gasoline
+  - brand
+  - welder
+  - wedding cake
+  - dashboard
+  - caviar
+  - laser
+  - download
+  - baggage
+  - bruise
+  - punk
+  - sandbox
+  - hot tub
+  - shrink ray
+  - safe
+  - goblin
+  - baseboards
+  - dust bunny
+  - double
+  - wobble
+  - coach
+  - lung
+  - zoo
+  hard:
+  - offstage
+  - eureka
+  - zero
+  - riddle
+  - soul
+  - president
+  - psychologist
+  - opaque
+  - acre
+  - mine car
+  - landfill
+  - flutter
+  - tinting
+  - expired
+  - archaeologist
+  - exponential
+  - con
+  - Chick-fil-A
+  - stowaway
+  - password
+  - overture
+  - Zen
+  - lyrics
+  - pride
+  - translate
+  - nutmeg
+  - inertia
+  - addendum
+  - neutron
+  - blunt
+  - blacksmith
+  - stockholder
+  - positive
+  - gallop
+  - vision
+  - observatory
+  - random
+  - carat
+  - ligament
+  - ice fishing
+  - fragment
+  - publisher
+  - figment
+  - compromise
+  - Everglades
+  - ironic
+  - jig
+  - crisp
+  - interference
+  - implode
+  - philosopher
+  - clue
+  - telepathy
+  - drift
+  - handful
+  - champion
+  - intern
+  - default
+  - brunette
+  - slump
+  - armada
+  - loiterer
+  - flotsam
+  - pomp
+  - century
+  - mooch
+  - freshwater
+  - pastry
+  - lichen
+  - trademark
+  - infection
+  - siesta
+  - parody
+  - snag
+  - chaos
+  - czar
+  - tournament
+  - aristocrat
+  - reimbursement
+  - hang ten
+  - blueprint
+  - stout
+  - upgrade
+  - quarantine
+  - Atlantis
+  - population
+  - kilogram
+  - panic
+  - brainstorm
+  - standing ovation
+  - transpose
+  - periwinkle
+  - twang
+  - inquisition
+  - protestant
+  - tutor
+  - cartography
+  - rainwater
+  - coast
+  idioms:
+  - at the bottom of the totem pole
+  - a bird in the hand is worth two in the bush
+  - in a pickle
+  - you catch more flies with honey than with vinegar
+  - up a creek without a paddle
+  - grass is always greener on the other side
+  - tie the knot
+  - get cold feet
+  - think outside the box
+  - why the long face?
+  - couch potato
+  - break a leg
+  - on the same page
+  - water under the bridge
+  - bite off more than you can chew
+  - small potatoes
+  - skeleton in the closet
+  - cat got your tongue
+  - ducks in a row
+  - spill the beans
+  - out of this world
+  - butterflies in your stomach
+  - pass the buck
+  - shoot the breeze
+  - not the only fish in the sea
+  - be all ears
+  - the cat's meow
+  - back to square one
+  - smarty pants
+  - set in stone
+  - knock your socks off
+  - my way or the highway
+  - let the cat out of the bag
+  - pick up the pace
+  - hit the nail on the head
+  - money doesn't grow on trees
+  - like watching paint dry
+  - wake up on the wrong side of the bed
+  - birds of a feather flock together
+  - over the moon
+  - from the bottom of my heart
+  - cut the rug
+  - scared stiff
+  - everybody and their dog
+  - busy bee
+  - a fifth wheel
+  - give my two cents
+  - open a can of worms
+  - go out on a limb
+  - in one ear and out the other
+  - reinvent the wheel
+  - in hot water
+  - a wolf in sheep's clothing
+  - out like a light
+  - in a nutshell
+  - too many irons in the fire
+  - have your cake and eat it too
+  - burn the candle at both ends
+  - out of sight, out of mind
+  - easy as falling off a log
+  - close, but no cigar
+  - just a drop in the bucket
+  - everything but the kitchen sink
+  - bull in a china closet
+  - stop cold turkey
+  - caught with your hand in the cookie jar
+  - get the ball rolling
+  - give him a piece of my mind
+  - when pigs fly
+  - teach an old dog new tricks
+  - don't rock the boat
+  - the bee's knees
+  - hold down the fort
+  - puppy love
+  - more than you can shake a stick at
+  - head over heels in love
+  - eat like a bird
+  - chip off the old block
+  - when it rains, it pours
+  - light at the end of the tunnel
+  - like a deer in the headlights
+  - better the devil you know
+  - sweet tooth
+  - dog and pony show
+  - burst your bubble
+  - pull someone's leg
+  - the lion's share
+  - raining cats and dogs
+  - bouncing off the walls
+  - in a jam
+  - burning bridges
+  - put it on the back burner
+  - so hungry I could eat a horse
+  - the way the cookie crumbles
+  - hit the road
+  - ballpark figure
+  - too many cooks in the kitchen
+  - ball is in your court
+  - draw the shortest straw
+  - in over your head
+  - a little bird told me
+  - fence-sitter
+  - down in the dumps
+  - push the envelope
+  - not my cup of tea
+  - hold your tongue
+  - wet blanket
+  - hold your horses
+  - recharge your batteries
+  - bring home the bacon
+  - go the extra mile
+  - keep your eye on the ball
+  - always a bridesmaid, never a bride
+  - money burns a hole in your pocket
+  - cost an arm and a leg
+  - kick the bucket
+  - where there's smoke, there's fire
+  - a stone's throw away
+  - straw that broke the camel's back
+  - get your feathers in a bunch
+  - the cold shoulder
+  - put your foot in your mouth
+  - take a leaf out of his book
+  - big fish in a small pond
+  - one foot in the door
+  - cry over spilt milk
+  - as the crow flies
+  - rub salt in an open wound
+  - pop the question
+  - out of the frying pan and into the fire
+  - take it with a grain of salt
+  - crocodile tears
+  - steal my thunder
+  - every cloud has a silver lining
+  - in the same boat
+  - out of my hair
+  - a fly on the wall
+  - fit as a fiddle
+  - ants in your pants
+  - all your eggs in one basket
+  - in the doghouse
+  - have two left feet
+  - stiff upper lip
+  - keep your chin up
+  - bury the hatchet
+  - cast pearls before swine
+  - over the hill
+  - stick out like a sore thumb
+  - like taking candy from a baby
+  - peanut gallery
+  - have a cow
+  - apple of my eye
+  - early bird gets the worm
+  - frog in your throat
+  - grab the bull by the horns
+  - bite the dust
+  - your eyes are bigger than your stomach
+  - while the cat's away, the mice will play
+  - fly off the handle
+  - at arm's length
+  - rise above the blues
+  - hit the sack
+  - like shooting fish in a barrel
+  - bring the house down
+  - squeaky wheel gets the grease
+  - at the end of your rope
+  - put your foot down
+  - fraidey cat
+  - get your feet wet
+  - throw a wrench in the works
+  - carry a tune
+  - needle in a haystack
+  - sweep you off your feet
+  - piece of cake
+  - fish or cut bait
+  - hit the books
+  - make a mountain out of a molehill
+  - a bolt out of the blue
+  - good fences make good neighbors
+  - bend over backwards
+  - teacher's pet
+  - cross the bridge when we come to it
+  - chip on your shoulder
+  - throw the towel in
+  - make a beeline for
+  - feeling under the weather
+  - comparing apples and oranges
+  - at the top of your lungs
+  - someone with a hollow leg
+  - barking up the wrong tree
+  - dropping like flies
+  - in the lap of luxury
+  - wallflower
+  - full of hot air
+  - bright as a button
+  - egg on your face
+  - between a rock and a hard place
+  - paint yourself into a corner
+  - on top of the world
+  - green thumb
+  - you're toast
+  - roll out the red carpet
+  - two peas in a pod
+  - baker's dozen
+  - bigger fish to fry
+  - heard it through the grapevine
+  - one smart cookie
+  - ruffle a few feathers
+  - icing on the cake
+  - best thing since sliced bread
   characters:
   - Bill Cosby
   - Luke Skywalker
@@ -4247,179 +4247,106 @@ pictionary:
   - The Emperor's New Groove
   - Cloudy with a Chance of Meatballs
 charades:
-  difficult:
-  - owl
-  - gingerbread man
-  - rainbow
-  - hook
-  - softball
-  - sunburn
-  - sheet
-  - president
-  - bun
-  - washing machine
-  - mirror
-  - match
-  - artist
-  - photograph
-  - gas
-  - hill
-  - juggle
-  - business trip
-  - swordfish
-  - old
-  - dentist
-  - sand
-  - full
-  - quicksand
-  - huddle
-  - story
-  - doghouse
-  - eraser
-  - oar
-  - windmill
-  - sip
-  - knot
-  - bathroom scale
-  - lung
-  - mini blinds
-  - spider web
-  - gym
-  - skate
-  - clock
-  - refrigerator
-  - bobsled
-  - cramp
-  - nightmare
-  - mouse trap
-  - taxi
-  - Superman
-  - hose
-  - cowboy
-  - chalk
-  - Michael Jordan
-  - iPad
-  - party
-  - stain
-  - spill
-  - volcano
-  - kite
-  - video camera
-  - shadow
-  - cuff
-  - pelican
-  - funny
-  - deep
-  - whisk
-  - Babe Ruth
-  - cast
-  - wig
-  - bark
-  - ticket
-  - smell
-  - hair dryer
-  - inchworm
-  - peck
-  - wrench
-  - beach
-  - grill
-  - skull
-  - Sherlock Holmes
-  - spine
-  - pizza
-  - torch
-  - floor
-  - vest
-  - jar
-  - wax
-  - stiff
-  - chess
-  - tennis
-  - Elvis Presley
-  - Pinocchio
-  - lawn mower
-  - stapler
-  - hurt
-  - rope
-  - fog
-  - honk
-  - flamingo
-  - Spock
-  - net
-  - fist
-  - skis
-  - pet
-  actions:
-  - paddling in a canoe
-  - operating a jackhammer
-  - climbing Mount Everest
-  - delivering mail
-  - raking leaves
-  - opening birthday presents
-  - performing at a rock concert
-  - riding a motorcycle
-  - sorting laundry
-  - going on an African safari
-  - sumo wrestling
-  - painting the walls in a room
-  - watching a movie at the theater
-  - playing baseball
-  - trick-or-treating
-  - playing four square
-  - watering a garden
-  - going bowling
-  - whale watching
-  - making a pizza
-  - chasing a tornado
-  - flipping pancakes
-  - baking bread
-  - riding a carousel
-  - washing an elephant
-  - body surfing at the beach
-  - washing windows on a building
-  - snow skiing down a hill
-  - having a food fight
-  - going through airport security
-  - milking a cow
-  - rock climbing
-  - scuba diving
-  - riding in a chairlift
-  - finger painting
-  - walking with crutches
-  - gathering eggs from a hen house
-  - dancing a ballet
-  - visiting the zoo
-  - cutting someone's hair
-  - riding bumper cars
-  - playing with play dough
-  - playing chess
-  - playing at a piano recital
-  - playing hopscotch
-  - decorating for a party
-  - hang-gliding
-  - shopping at the mall
-  - walking through a haunted house
-  - asking for an autograph
-  - swimming with dolphins
-  - filling up a car with gas
-  - filming a movie
-  - flying a kite
-  - picking apples from a tree
-  - hailing a taxi
-  - ironing a shirt
-  - setting up a tent
-  - digging a hole
-  - ordering food at a restaurant
-  - sewing on a button
-  - landing an airplane
-  - sewing a dress
-  - building a sandcastle
-  - playing soccer
-  - practicing karate
-  - being a flight attendant
-  - mowing a lawn
-  - building a campfire
-  - feeding the ducks
+  easy:
+  - lip
+  - baseball
+  - toothbrush
+  - backpack
+  - shoulder
+  - stomp
+  - drink
+  - walk
+  - kangaroo
+  - basketball
+  - sad
+  - dinner
+  - cheek
+  - chin
+  - hair
+  - feet
+  - sneeze
+  - airplane
+  - ladder
+  - ice cream cone
+  - smile
+  - run
+  - door
+  - bite
+  - doll
+  - eye
+  - pillow
+  - mouth
+  - jump rope
+  - ear
+  - dog
+  - cut
+  - eat
+  - sleep
+  - draw
+  - baby
+  - pants
+  - bed
+  - happy
+  - breakfast
+  - yawn
+  - clap
+  - dance
+  - bunny
+  - telephone
+  - frown
+  - alligator
+  - football
+  - skip
+  - monkey
+  - circle
+  - mosquito
+  - shoe
+  - jump
+  - hopscotch
+  - point
+  - big
+  - car
+  - shark
+  - stop
+  - knee
+  - toe
+  - nose
+  - robot
+  - ring
+  - balloon
+  - pinch
+  - blanket
+  - head
+  - elephant
+  - chicken
+  - broom
+  - book
+  - elbow
+  - blink
+  - ball
+  - tongue
+  - hug
+  - bird
+  - jumping jack
+  - scissors
+  - salt
+  - back
+  - turtle
+  - wave
+  - tail
+  - pig
+  - prayer
+  - spider
+  - glasses
+  - snap
+  - hand
+  - hat
+  - arm
+  - kick
+  - camera
+  - chair
+  - wrist
+  - finger
   medium:
   - trumpet
   - salute
@@ -4584,6 +4511,108 @@ charades:
   - wink
   - banana peel
   - soap
+  difficult:
+  - owl
+  - gingerbread man
+  - rainbow
+  - hook
+  - softball
+  - sunburn
+  - sheet
+  - president
+  - bun
+  - washing machine
+  - mirror
+  - match
+  - artist
+  - photograph
+  - gas
+  - hill
+  - juggle
+  - business trip
+  - swordfish
+  - old
+  - dentist
+  - sand
+  - full
+  - quicksand
+  - huddle
+  - story
+  - doghouse
+  - eraser
+  - oar
+  - windmill
+  - sip
+  - knot
+  - bathroom scale
+  - lung
+  - mini blinds
+  - spider web
+  - gym
+  - skate
+  - clock
+  - refrigerator
+  - bobsled
+  - cramp
+  - nightmare
+  - mouse trap
+  - taxi
+  - Superman
+  - hose
+  - cowboy
+  - chalk
+  - Michael Jordan
+  - iPad
+  - party
+  - stain
+  - spill
+  - volcano
+  - kite
+  - video camera
+  - shadow
+  - cuff
+  - pelican
+  - funny
+  - deep
+  - whisk
+  - Babe Ruth
+  - cast
+  - wig
+  - bark
+  - ticket
+  - smell
+  - hair dryer
+  - inchworm
+  - peck
+  - wrench
+  - beach
+  - grill
+  - skull
+  - Sherlock Holmes
+  - spine
+  - pizza
+  - torch
+  - floor
+  - vest
+  - jar
+  - wax
+  - stiff
+  - chess
+  - tennis
+  - Elvis Presley
+  - Pinocchio
+  - lawn mower
+  - stapler
+  - hurt
+  - rope
+  - fog
+  - honk
+  - flamingo
+  - Spock
+  - net
+  - fist
+  - skis
+  - pet
   hard:
   - evolution
   - gratitude
@@ -4646,103 +4675,74 @@ charades:
   - invitation
   - personal bubble
   - level
-  easy:
-  - lip
-  - baseball
-  - toothbrush
-  - backpack
-  - shoulder
-  - stomp
-  - drink
-  - walk
-  - kangaroo
-  - basketball
-  - sad
-  - dinner
-  - cheek
-  - chin
-  - hair
-  - feet
-  - sneeze
-  - airplane
-  - ladder
-  - ice cream cone
-  - smile
-  - run
-  - door
-  - bite
-  - doll
-  - eye
-  - pillow
-  - mouth
-  - jump rope
-  - ear
-  - dog
-  - cut
-  - eat
-  - sleep
-  - draw
-  - baby
-  - pants
-  - bed
-  - happy
-  - breakfast
-  - yawn
-  - clap
-  - dance
-  - bunny
-  - telephone
-  - frown
-  - alligator
-  - football
-  - skip
-  - monkey
-  - circle
-  - mosquito
-  - shoe
-  - jump
-  - hopscotch
-  - point
-  - big
-  - car
-  - shark
-  - stop
-  - knee
-  - toe
-  - nose
-  - robot
-  - ring
-  - balloon
-  - pinch
-  - blanket
-  - head
-  - elephant
-  - chicken
-  - broom
-  - book
-  - elbow
-  - blink
-  - ball
-  - tongue
-  - hug
-  - bird
-  - jumping jack
-  - scissors
-  - salt
-  - back
-  - turtle
-  - wave
-  - tail
-  - pig
-  - prayer
-  - spider
-  - glasses
-  - snap
-  - hand
-  - hat
-  - arm
-  - kick
-  - camera
-  - chair
-  - wrist
-  - finger
+  actions:
+  - paddling in a canoe
+  - operating a jackhammer
+  - climbing Mount Everest
+  - delivering mail
+  - raking leaves
+  - opening birthday presents
+  - performing at a rock concert
+  - riding a motorcycle
+  - sorting laundry
+  - going on an African safari
+  - sumo wrestling
+  - painting the walls in a room
+  - watching a movie at the theater
+  - playing baseball
+  - trick-or-treating
+  - playing four square
+  - watering a garden
+  - going bowling
+  - whale watching
+  - making a pizza
+  - chasing a tornado
+  - flipping pancakes
+  - baking bread
+  - riding a carousel
+  - washing an elephant
+  - body surfing at the beach
+  - washing windows on a building
+  - snow skiing down a hill
+  - having a food fight
+  - going through airport security
+  - milking a cow
+  - rock climbing
+  - scuba diving
+  - riding in a chairlift
+  - finger painting
+  - walking with crutches
+  - gathering eggs from a hen house
+  - dancing a ballet
+  - visiting the zoo
+  - cutting someone's hair
+  - riding bumper cars
+  - playing with play dough
+  - playing chess
+  - playing at a piano recital
+  - playing hopscotch
+  - decorating for a party
+  - hang-gliding
+  - shopping at the mall
+  - walking through a haunted house
+  - asking for an autograph
+  - swimming with dolphins
+  - filling up a car with gas
+  - filming a movie
+  - flying a kite
+  - picking apples from a tree
+  - hailing a taxi
+  - ironing a shirt
+  - setting up a tent
+  - digging a hole
+  - ordering food at a restaurant
+  - sewing on a button
+  - landing an airplane
+  - sewing a dress
+  - building a sandcastle
+  - playing soccer
+  - practicing karate
+  - being a flight attendant
+  - mowing a lawn
+  - building a campfire
+  - feeding the ducks
